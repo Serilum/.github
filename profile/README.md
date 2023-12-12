@@ -1,6 +1,6 @@
 <a href="https://serilum.com/"><img src="https://github.com/ricksouth/serilum-mc-mods/raw/master/description/a1.jpg"></a>
 <h2>Download</h2>
-<p>You can download all mods on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/members/serilum/projects">https://www.curseforge.com/members/serilum/projects</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/user/Serilum">https://modrinth.com/user/Serilum</a></p>
+<p>You can download all mods on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/members/serilum/projects">https://curseforge.com/members/serilum/projects</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/user/Serilum">https://modrinth.com/user/Serilum</a></p>
 
 <h2>Issue Tracker</h2>
 
