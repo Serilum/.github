@@ -1,15 +1,24 @@
-<a href="https://serilum.com/"><img src="https://github.com/Serilum/.cdn/raw/main/description/header/header.png"></a>
-<h2>Download</h2>
-<p>You can download all mods on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/members/serilum/projects">https://curseforge.com/members/serilum/projects</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/user/Serilum">https://modrinth.com/user/Serilum</a></p>
+![A Serilum Mod. Made with love. Lots of active mods for Fabric, Forge and Neo!](https://cdn.serilum.com/description/header/header.png)
 
-<h2>Issue Tracker</h2>
+<br>
 
-<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
+![Download the mods](https://cdn.serilum.com/description/nameplate/download-the-mods.svg)
+### You can download all mods on CurseForge and Modrinth:
+**CurseForge &nbsp; → &nbsp; [https://curseforge.com/members/serilum/projects](https://curseforge.com/members/serilum/projects)**\
+**Modrinth &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; [https://modrinth.com/user/Serilum](https://modrinth.com/user/Serilum)**
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
+<br><br>
 
-<h2>Pull Requests</h2>
+![Issue Tracker](https://cdn.serilum.com/description/nameplate/issue-tracker.svg)
+## To keep a better overview of all mods, the issue tracker is located in a separate repository.
+For issues, ideas, suggestions or anything else, please follow this link:
 
-<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
+**-> [Issue Tracker](https://serilum.com/url/issue-tracker)**
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
+<br><br>
+
+![Pull Requests](https://cdn.serilum.com/description/nameplate/pull-requests.svg)
+## Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.
+A wiki page entry about it is available here:
+
+**-> [Pull Request Information](https://serilum.com/url/pull-requests)**
