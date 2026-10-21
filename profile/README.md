@@ -28,6 +28,7 @@ GitHub/Serilum
 ├─ <a href="https://github.com/Serilum/.serilum.com">.serilum.com</a>           The website with a useful mod overview and other things: <a href="https://serilum.com/">serilum.com</a>
 ├─ <a href="https://github.com/Serilum/.translations">.translations</a>          Contains all language files, see: <a href="https://serilum.com/translations">serilum.com/translations</a>
 ├─ <a href="https://github.com/Serilum/.maven">.maven</a>                 Hosts the library mod files via a manual Maven: <a href="https://maven.serilum.com/">maven.serilum.com</a>
+├─ <a href="https://github.com/Serilum/.cdn">.cdn</a>                   Hosts all media used on CurseForge, Modrinth, GitHub and Serilum.com.
 ├─ <a href="https://github.com/Serilum/.tether-gradle-plugin">.tether-gradle-plugin</a>  A custom Gradle plugin that manages the source backend.
 ├─ <a href="https://github.com/Serilum/.update-checker">.update-checker</a>        A code mirror of the update checker, for transparency.
 ├─ <a href="https://github.com/Serilum/.link">.link</a>                  Permanent redirect links via <a href="https://link.serilum.com/">link.serilum.com</a>
